@@ -1,2 +1,77 @@
-# BlazeOS-Win10-
-BlazeOS için ana kurulum sayfası sıradan Windows yerine yepyeni daha fazla özelliklere sahip ve çok daha düşük gereksinimli düşük ram kullanımlı BlazeOS a geçin !
+🔥 BlazeOS – Windows 10 PRO Edition
+BlazeOS Win10 Edition, Windows 10 tabanlı, performans ve sadelik odaklı optimize edilmiş bir sistem yapılandırmasıdır.
+Amaç: Microsoft’un şişirdiği sistemi gerçekten kullanılabilir hale getirmek.
+
+Bu bir “Windows kur + tema at” işi değildir.
+Sistem seviyesinde temizlik ve optimizasyon içerir.
+
+🌐 Resmi Kurulum Sayfası
+👉 https://github.com/DarkMorpheus-pc/BlazeOS-Win11- (torrent daha hızlı bir şekilde isoyu yükle)
+👉 https://archive.org/details/blaze-os-pro-t-1-w-1 (direk iso formatında fakat daha yavaş yüklenebilir)
+
+🚀 Nedir Bu?
+🧹 Gereksiz Windows bileşenleri devre dışı
+⚡ Daha hızlı açılış ve düşük RAM kullanımı
+🧠 Arka planda çalışan saçma servisler kapalı
+🎮 Oyun ve günlük kullanım için optimize
+🛠 Geliştirici ve ileri seviye kullanıcı odaklı
+dotnet c++ hazır gelmesi sayesinde zahmetsiz ve daha rahat bir kullanım sunar
+⚠️ ÖNEMLİ UYARI (OKUMADAN GEÇME)
+BlazeOS Win10 resmi Microsoft ürünü değildir
+Microsoft ile hiçbir bağlantısı yoktur
+Yapılan değişiklikler kullanıcının sorumluluğundadır
+Yanlış kullanım → sistem sorunları → ağlama yok
+📦 Sistem Gereksinimleri
+Minimum
+
+Windows 10 destekli CPU
+1.5 GB RAM
+50 GB disk alanı
+Önerilen
+
+4 GB RAM
+SSD / NVMe
+Temiz Windows 10 kurulumu
+💿 Kurulum Yöntemleri
+🔹 Yöntem 1: Mevcut Windows 10 Üzerine (Önerilmez)
+Mevcut sistem üzerine BlazeOS yapılandırması uygulanır
+Eski çöpler kalabilir
+Performans garanti edilmez
+🔹 Yöntem 2: Temiz Kurulum (ŞİDDETLE ÖNERİLİR)
+İlk kurulum tamamlandıktan sonra:
+BlazeOS Win10 paketini uygula
+👉 Kurulum dosyaları:
+👉 https://github.com/DarkMorpheus-pc/BlazeOS-Win10- (torrent daha hızlı bir şekilde isoyu yükle) 
+👉 https://archive.org/details/blaze-os-win-10 (direk iso formatında fakat daha yavaş yüklenebilir)
+
+🧰 BlazeOS Win10 Paket İçeriği
+Registry optimizasyonları
+Gereksiz servis kapatma scriptleri
+Telemetry ve arka plan kısıtlamaları
+Güç planı ayarları
+UI sadeleştirme (kozmetik değil, mantıklı)
+Kurulum sırasında kafana göre iş yaparsan sistem patlarsa sorumluluk sende.
+
+🔄 Güncellemeler
+BlazeOS güncellemeleri manuel olarak yapılır
+Windows Update tamamen kapalı değildir
+Büyük Windows güncellemeleri optimizasyonları bozabilir
+Update sonrası “performans düştü” diyorsan paketi yeniden uygula.
+
+🛠 Kimler İçin Uygun?
+✔ Geliştiriciler
+✔ Oyuncular
+✔ Eski donanımda Win10 kullananlar
+Ofis kullanıcıları Günlük kullanım
+
+💬 Topluluk
+Discord: Blaze Topluluğu
+Signal: Aktif kullanıcılar
+Destek istiyorsan önce README oku.
+
+📜 Lisans & Sorumluluk
+Bu proje:
+
+Açık kaynak yapılandırmalar içerir
+Microsoft Windows dosyaları içermez
+BlazeOS Win10 = kontrol sende
