@@ -6,8 +6,8 @@ Bu bir “Windows kur + tema at” işi değildir.
 Sistem seviyesinde temizlik ve optimizasyon içerir.
 
 🌐 Resmi Kurulum Sayfası
-👉 https://github.com/DarkMorpheus-pc/BlazeOS-Win11- (torrent daha hızlı bir şekilde isoyu yükle)
-👉 https://archive.org/details/blaze-os-pro-t-1-w-1 (direk iso formatında fakat daha yavaş yüklenebilir)
+👉 https://github.com/DarkMorpheus-pc/BlazeOS-Win10- (torrent daha hızlı bir şekilde isoyu yükle)
+👉 https://archive.org/details/blaze-os-win-10 (direk iso formatında fakat daha yavaş yüklenebilir)
 
 🚀 Nedir Bu?
 🧹 Gereksiz Windows bileşenleri devre dışı
